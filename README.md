@@ -2,7 +2,7 @@
 
 Ich bin Quereinsteigerin im IT-Bereich mit starkem Interesse an Datenanalyse und Softwareentwicklung. In meinem Portfolio finden Sie Projekte aus den Bereichen:
 
-- 📊 **Datenanalyse (Python, SQL, Tableau)**
+- 📊 **Datenanalyse (SQL, Tableau)**
 - 🕹️ **Programmierung (kleine Spiele in Python, Webseiten in HTML/CSS)**
 - 🛠️ **UX/UI und Webtools (Figma, Jira, Netlify)**
 
