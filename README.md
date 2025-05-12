@@ -27,7 +27,7 @@ Ich bin Quereinsteigerin im IT-Bereich mit starkem Interesse an Datenanalyse und
 
 ### 4. **Webseite mit HTML/CSS**
 - 📁 Tools: HTML, CSS, Visual Studio Code, Netlify
-- 🔗 Live-Demo:  (https://moonlit-gecko-418cf8.netlify.app/) 
+- 🔗 Live-Demo:  https://github.com/Tetiana-Honcharenko/personal-website-resume (https://moonlit-gecko-418cf8.netlify.app/) 
 - 📝 Beschreibung: Einfaches responsives Layout als persönliche Website
 
 ### 5. **Dashboard mit Tableau**
