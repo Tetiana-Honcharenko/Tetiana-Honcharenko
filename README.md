@@ -21,13 +21,13 @@ Ich bin Quereinsteigerin im IT-Bereich mit starkem Interesse an Datenanalyse und
 - 🎮 Beschreibung: Spielmechanik mit Benutzereingaben, Schleifen und einfacher Logik
 
 ### 3. **Webseite mit HTML/CSS**
-- 📁 Tools: HTML, CSS, Visual Studio Code, Netlify
-- 🔗 Live-Demo: https://github.com/Tetiana-Honcharenko/personal-website-gus (https://cool-tiramisu-3a8e9b.netlify.app/)
+- 📁 Tools: HTML, CSS, Visual Studio Code, Figma, Netlify
+- 🔗 Live-Demo: https://github.com/Tetiana-Honcharenko/personal-website-gus 
 - 📝 Beschreibung: Einfaches responsives Layout als persönliche Website
 
 ### 4. **Webseite mit HTML/CSS**
-- 📁 Tools: HTML, CSS, Visual Studio Code, Netlify
-- 🔗 Live-Demo:  https://github.com/Tetiana-Honcharenko/personal-website-resume (https://moonlit-gecko-418cf8.netlify.app/) 
+- 📁 Tools: HTML, CSS, Visual Studio Code, Figma, Netlify
+- 🔗 Live-Demo:  https://github.com/Tetiana-Honcharenko/personal-website-resume 
 - 📝 Beschreibung: Einfaches responsives Layout als persönliche Website
 
 ### 5. **Dashboard mit Tableau**
