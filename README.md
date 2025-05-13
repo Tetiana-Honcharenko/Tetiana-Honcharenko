@@ -35,6 +35,11 @@ Ich bin Quereinsteigerin im IT-Bereich mit starkem Interesse an Datenanalyse und
 - 🔗 Link: (https://github.com/Tetiana-Honcharenko/Tableau-Dashboard)
 - 📊 Beschreibung: Visualisierung von Trends in offenen Daten
 
+### 6. **Bugreport in Jira**
+- 📁 Tools: Jira Software, Original-Website
+- 🔗 Link: (https://github.com/Tetiana-Honcharenko/bug-report-jira-sample)
+- 📝 Beschreibung: Erstellung eines professionellen **Bugreports** in Jira
+
 ---
 
 ## 📬 Kontakt
